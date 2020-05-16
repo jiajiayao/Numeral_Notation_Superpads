@@ -8,6 +8,11 @@
 
 ### 欢迎访问 [B站个人主页](https://space.bilibili.com/41352731) 不定期更新教程视频
 
+## 什么是数字谱？
+
+**如图所示，更加便于记忆和演奏**
+<image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589645135163&di=5277edf41722c893a6844649677a4bfa&imgtype=0&src=http%3A%2F%2Fwx3.sinaimg.cn%2Fwap720%2F72248124gy1fj5o5ptqthj210v0ku77j.jpg'>
+
 ## 收集包含的类容
 
 - 简谱标题
