@@ -1,5 +1,6 @@
 # Numeral_Notation_Superpads
 # superpads数字简谱收录合辑
+<image src="https://i1.hdslb.com/bfs/archive/11c12bca65c6aa1bffede8f3563cd9a4002af54e.jpg@380w_240h_100Q_1c.webp"></image>
 
 #### 所有数字简谱均收集于网络，如果有不妥之处,敬请谅解，如有侵权内容,请联系我们删除
 
