@@ -1,6 +1,8 @@
 # Numeral_Notation_Superpads
 # superpads数字简谱收录合辑
-<image src="https://i1.hdslb.com/bfs/archive/11c12bca65c6aa1bffede8f3563cd9a4002af54e.jpg@380w_240h_100Q_1c.webp"></image>
+
+![](https://i1.hdslb.com/bfs/archive/11c12bca65c6aa1bffede8f3563cd9a4002af54e.jpg@380w_240h_100Q_1c.webp)
+
 
 #### 所有数字简谱均收集于网络，如果有不妥之处,敬请谅解，如有侵权内容,请联系我们删除
 
@@ -11,7 +13,9 @@
 ## 什么是数字谱？
 
 **如图所示，更加便于记忆和演奏**
-<image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589645135163&di=5277edf41722c893a6844649677a4bfa&imgtype=0&src=http%3A%2F%2Fwx3.sinaimg.cn%2Fwap720%2F72248124gy1fj5o5ptqthj210v0ku77j.jpg'>
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589645135163&di=5277edf41722c893a6844649677a4bfa&imgtype=0&src=http%3A%2F%2Fwx3.sinaimg.cn%2Fwap720%2F72248124gy1fj5o5ptqthj210v0ku77j.jpg)
+
 
 ## 收集包含的类容
 
